@@ -1,0 +1,2 @@
+source /Users/sherifhamad/esp-projects/play_mp3_control/build/bootloader/gdbinit/symbols
+source /Users/sherifhamad/esp-projects/play_mp3_control/build/bootloader/gdbinit/connect

@@ -1,0 +1,21 @@
+{
+  "idf.port": "/dev/tty.wchusbserial58FA0107961",
+  "idf.flashType": "UART",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "files.associations": {
+    "audio_pipeline.h": "c",
+    "audio_element.h": "c",
+    "raw_stream.h": "c",
+    "i2s_stream.h": "c",
+    "board.h": "c",
+    "mp3_decoder.h": "c"
+  },
+  "idf.espIdfPath": "/Users/sherifhamad/esp/esp-idf",
+  "idf.toolsPath": "/Users/sherifhamad/.espressif",
+  "idf.pythonInstallPath": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/bin/python3"
+}
