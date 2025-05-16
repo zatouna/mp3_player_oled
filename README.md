@@ -50,6 +50,10 @@ This project implements an MP3 player on an ESP32 microcontroller with real-time
    idf.py set-target esp32
    idf.py menuconfig
    ```
+   In menuconfig:
+   - Navigate to `Audio HAL`
+   - Select `Custom Board` as the audio board
+   - Configure I2S pins if needed
 4. Build and flash:
    ```bash
    idf.py build
